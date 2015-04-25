@@ -1,2 +1,2 @@
-# SOCKing
-- my new site Stephen O'Connor King
+# SOCKing Logo
+- logo - Stephen O'Connor King
