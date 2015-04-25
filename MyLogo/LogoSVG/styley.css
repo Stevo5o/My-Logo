@@ -1,5 +1,8 @@
 /*styley.css*/
 
+body {
+	font-family: 'Inconsolata' ;
+}
 #page {
     width: 900px;    
     margin: auto;
@@ -18,4 +21,8 @@ nav ul{
 nav li{
 	display: inline;
 	padding:20px;
+}
+h1 span {
+	color:gold;
+	letter-spacing: 8px;
 }
