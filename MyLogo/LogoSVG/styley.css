@@ -1,0 +1,19 @@
+/*styley.css*/
+
+#page {
+    width: 900px;
+    border: black solid 1px;
+    margin: auto;
+    background-color: red;
+}
+
+#svg-logo-container {
+    border: black solid 1px;
+    display: inline-block;
+    background-color: white;
+
+}
+
+body {
+    background-color: black;
+}
