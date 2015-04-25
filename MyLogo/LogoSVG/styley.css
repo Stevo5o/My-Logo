@@ -1,19 +1,21 @@
 /*styley.css*/
 
 #page {
-    width: 900px;
-    border: black solid 1px;
+    width: 900px;    
     margin: auto;
-    background-color: red;   
+    text-align: center;
+     
 }
 
-#svg-logo-container {
+#svg-logo-container { 
+
+}
+
+nav ul{
     
-    display: inline-block;
-    background-color: white;
-
+    padding: 8px 0px;
 }
-
-body {
-    background-color: black;
+nav li{
+	display: inline;
+	padding:20px;
 }
